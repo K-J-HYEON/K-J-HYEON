@@ -43,4 +43,4 @@
 #
 <div align=center>Collaboration Tool</div>
 
-<div align=center><img src="https://img.shields.io/badge/Git-red?style=flat&logo=Git&logoColor=F05032"/> <img src="https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=181717"/> <img src="https://img.shields.io/badge/Jira-blue?style=flat&logo=Jira&logoColor=0052CC"/> <img src="https://img.shields.io/badge/Confluence-blue?style=flat&logo=confluence&logoColor=0052CC"/> <img src="https://img.shields.io/badge/Atlassian-blue?style=flat&logo=Atlassian&logoColor=0052CC"/></div>
+<div align=center><img src="https://img.shields.io/badge/Git-red?style=flat&logo=Git&logoColor=F05032"/> <img src="https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=181717"/> <img src="https://img.shields.io/badge/Atlassian-blue?style=flat&logo=Atlassian&logoColor=0052CC"/> <img src="https://img.shields.io/badge/Jira-blue?style=flat&logo=Jira&logoColor=0052CC"/> <img src="https://img.shields.io/badge/Confluence-blue?style=flat&logo=confluence&logoColor=0052CC"/></div>
