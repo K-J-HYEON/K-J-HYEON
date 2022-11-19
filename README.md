@@ -34,9 +34,9 @@
 
 
 #
-<div align=center>API Testing</div>
+<div align=center>Development, API Testing Tool</div>
 
-<div align=center><img src="https://img.shields.io/badge/Postman-orange?style=flat&logo=Postman&logoColor=FF6C37"/></div>
+<div align=center> <img src="https://img.shields.io/badge/IntelliJ IDEA-black?style=flat&logo=IntelliJ IDEA&logoColor= 000000"/> <img src="https://img.shields.io/badge/DataGrip-black?style=flat&logo=DataGrip&logoColor= 000000"/> <img src="https://img.shields.io/badge/Postman-orange?style=flat&logo=Postman&logoColor=FF6C37"/></div>
 
 
 
