@@ -4,12 +4,13 @@
 
 
 # 📝 Notion
-### <a href="https://odd-gecko-d29.notion.site/3bba73b9c82c4c1ebdcf51e182753058"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg"/></a>
+<div align=center><a href="https://odd-gecko-d29.notion.site/3bba73b9c82c4c1ebdcf51e182753058"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg"/></a></div>
 
 # 📧 Email & Blog
 
-#### kjh950601@gmail.com
-#### [https://kjh950601.tistory.com/](https://kjh950601.tistory.com/)
+<div align=center>kjh950601@gmail.com</div>
+</br>
+<div align=center>https://kjh950601.tistory.com</div>
 
 
 #
