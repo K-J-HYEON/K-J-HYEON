@@ -33,11 +33,11 @@
 #
 <div align=center>Development, API Testing Tool</div>
 
-<div align=center> <img src="https://img.shields.io/badge/IntelliJ IDEA-black?style=flat&logo=IntelliJ IDEA&logoColor= 000000"/> <img src="https://img.shields.io/badge/DataGrip-black?style=flat&logo=DataGrip&logoColor= 000000"/> <img src="https://img.shields.io/badge/Postman-orange?style=flat&logo=Postman&logoColor=FF6C37"/></div>
+<div align=center> <img src="https://img.shields.io/badge/IntelliJ IDEA-black?style=flat&logo=IntelliJ IDEA&logoColor= 000000"/> <img src="https://img.shields.io/badge/DataGrip-black?style=flat&logo=DataGrip&logoColor= 000000"/> <img src="https://img.shields.io/badge/Postman-orange?style=flat&logo=Postman&logoColor=FF6C37"/> <br><img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/></br> </div>
 
 
 
 #
 <div align=center>Collaboration Tool</div>
 
-<div align=center><img src="https://img.shields.io/badge/Git-red?style=flat&logo=Git&logoColor=F05032"/> <img src="https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=181717"/> <img src="https://img.shields.io/badge/Atlassian-blue?style=flat&logo=Atlassian&logoColor=0052CC"/> <img src="https://img.shields.io/badge/Jira-blue?style=flat&logo=Jira&logoColor=0052CC"/> <img src="https://img.shields.io/badge/Confluence-blue?style=flat&logo=confluence&logoColor=0052CC"/></div>
+<div align=center><img src="https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=F05032"/> <img src="https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=181717"/> <img src="https://img.shields.io/badge/Atlassian-blue?style=flat&logo=Atlassian&logoColor=0052CC"/> <img src="https://img.shields.io/badge/Jira-blue?style=flat&logo=Jira&logoColor=0052CC"/> <img src="https://img.shields.io/badge/Confluence-blue?style=flat&logo=confluence&logoColor=0052CC"/></div>
