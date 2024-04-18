@@ -4,7 +4,7 @@
 
 
 # 📝 Notion
-<div align=center><a href="https://odd-gecko-d29.notion.site/3bba73b9c82c4c1ebdcf51e182753058"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg"/></a></div>
+<div align=center><a href="[https://odd-gecko-d29.notion.site/3bba73b9c82c4c1ebdcf51e182753058](https://odd-gecko-d29.notion.site/3bba73b9c82c4c1ebdcf51e182753058)"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg"/></a></div>
 
 # 📧 Email & Blog
 
