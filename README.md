@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kwon%20Jae%20Hyeon&fontSize=90)
 
 
-# 📝 Notion
+# 📝 Resume(Notion)
 <div align=center><a href="https://odd-gecko-d29.notion.site/3bba73b9c82c4c1ebdcf51e182753058?pvs=4"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg"/></a></div>
 
 # 📧 Email & Blog
