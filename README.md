@@ -43,7 +43,3 @@
 <div align=center><img src="https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=F05032"/> <img src="https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=181717"/> <img src="https://img.shields.io/badge/Atlassian-blue?style=flat&logo=Atlassian&logoColor=0052CC"/> <img src="https://img.shields.io/badge/Jira-blue?style=flat&logo=Jira&logoColor=0052CC"/> <img src="https://img.shields.io/badge/Confluence-blue?style=flat&logo=confluence&logoColor=0052CC"/></div>
 
 ##
-
-# 🎧 Music
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dxoprw7slrlndycftt2ijof3ei&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
