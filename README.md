@@ -13,6 +13,12 @@
 <div align=center>https://kjh950601.tistory.com</div>
 
 
+
+<a href="https://github.com/K-J-HYEON/gitanimals">
+    <img src = "https://render.gitanimals.org/lines/K-J-HYEON?pet-id=1" width="500" height="100"/>
+</a>
+
+
 #
 
 <div align=center>
