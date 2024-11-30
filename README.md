@@ -49,3 +49,6 @@
 <div align=center><img src="https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=F05032"/> <img src="https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=181717"/> <img src="https://img.shields.io/badge/Atlassian-blue?style=flat&logo=Atlassian&logoColor=0052CC"/> <img src="https://img.shields.io/badge/Jira-blue?style=flat&logo=Jira&logoColor=0052CC"/> <img src="https://img.shields.io/badge/Confluence-blue?style=flat&logo=confluence&logoColor=0052CC"/></div>
 
 ##
+
+
+![Chart](https://btc-price-widget.vercel.app/api/charts?coin=btc&theme=default)
