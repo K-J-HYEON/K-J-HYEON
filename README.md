@@ -4,7 +4,7 @@
 
 
 # 📝 Resume(Notion)
-<div align=center><a href="https://odd-gecko-d29.notion.site/3bba73b9c82c4c1ebdcf51e182753058?pvs=4"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg"/></a></div>
+<div align=center><a href="https://odd-gecko-d29.notion.site/Kwon-Jae-Hyeon-copy-21fd3f9827948034ace7f04239b7b880?source=copy_link"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg"/></a></div>
 
 # 📧 Email & Blog
 
